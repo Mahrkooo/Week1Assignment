@@ -1,2 +1,2 @@
-var Nugget is cool = true;
-var Panda is amazing = true;
+var coding is cool = true;
+var visual studio code is amazing = true;
